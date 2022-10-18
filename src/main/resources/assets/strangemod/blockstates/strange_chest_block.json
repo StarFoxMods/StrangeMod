@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "strangemod:block/strange_chest_block"
+    },
+    "facing=south": {
+      "model": "strangemod:block/strange_chest_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "strangemod:block/strange_chest_block",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "strangemod:block/strange_chest_block",
+      "y": 90
+    }
+  }
+}

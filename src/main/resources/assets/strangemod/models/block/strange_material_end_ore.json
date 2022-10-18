@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "strangemod:block/strange_material_end_ore"
+  }
+}

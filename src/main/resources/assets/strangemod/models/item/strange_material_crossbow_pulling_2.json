@@ -1,0 +1,6 @@
+{
+  "parent": "strangemod:item/strange_material_crossbow",
+  "textures": {
+    "layer0": "strangemod:item/strange_material_crossbow_pulling_2"
+  }
+}

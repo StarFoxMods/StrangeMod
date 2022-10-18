@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "strangemod:item/strange_material_pickaxe"
+  }
+}

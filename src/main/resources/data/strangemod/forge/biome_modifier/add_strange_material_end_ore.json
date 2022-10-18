@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_end",
+  "features": "strangemod:strange_material_end_ore_placed",
+  "step": "underground_ores"
+}

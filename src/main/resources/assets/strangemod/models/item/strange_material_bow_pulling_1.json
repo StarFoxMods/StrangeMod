@@ -1,0 +1,6 @@
+{
+  "parent": "strangemod:item/strange_material_bow",
+  "textures": {
+    "layer0": "strangemod:item/strange_material_bow_pulling_1"
+  }
+}

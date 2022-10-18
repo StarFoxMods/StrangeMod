@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangemod:strange_material_block"
+    }
+  ],
+    "result": {
+      "item": "strangemod:strange_material",
+      "count": 9
+  }
+}

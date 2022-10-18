@@ -1,0 +1,29 @@
+{
+  "item.strangemod.raw_strange_material": "Raw Strange Material",
+  "item.strangemod.strange_material": "Strange Material",
+
+  "item.strangemod.strange_material_sword": "Strange Material Sword",
+  "item.strangemod.strange_material_pickaxe": "Strange Material Pickaxe",
+  "item.strangemod.strange_material_shovel": "Strange Material Shovel",
+  "item.strangemod.strange_material_axe": "Strange Material Axe",
+  "item.strangemod.strange_material_hoe": "Strange Material Hoe",
+
+  "item.strangemod.strange_material_bow": "Strange Material Bow",
+  "item.strangemod.strange_material_crossbow": "Strange Material Crossbow",
+  "item.strangemod.strange_material_arrow": "Strange Material Arrow",
+
+  "item.strangemod.strange_material_helmet": "Strange Material Helmet",
+  "item.strangemod.strange_material_chestplate": "Strange Material Chestplate",
+  "item.strangemod.strange_material_leggings": "Strange Material Leggings",
+  "item.strangemod.strange_material_boots": "Strange Material Boots",
+
+  "block.strangemod.strange_material_block": "Block of Strange Material",
+  "block.strangemod.strange_material_stone_ore": "Strange Material Ore",
+  "block.strangemod.strange_material_nether_ore": "Strange Material Ore",
+  "block.strangemod.strange_material_deepslate_ore": "Strange Material Ore",
+  "block.strangemod.strange_material_end_ore": "Strange Material Ore",
+  "block.strangemod.strange_chest_block": "Strange Chest",
+
+  "itemGroup.strangetab": "Strange Tab",
+  "entity.minecraft.villager.strangemod.strange_trader": "Strange Trader"
+}

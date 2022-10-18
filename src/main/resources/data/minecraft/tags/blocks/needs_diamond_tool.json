@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "strangemod:strange_material_block",
+    "strangemod:strange_material_nether_ore",
+    "strangemod:strange_material_deepslate_ore",
+    "strangemod:strange_material_end_ore"
+  ]
+}
