@@ -3,6 +3,7 @@ package com.StarFoxMods.strangemod;
 import com.StarFoxMods.strangemod.block.ModBlocks;
 import com.StarFoxMods.strangemod.block.entity.ModBlockEntities;
 import com.StarFoxMods.strangemod.item.ModItems;
+import com.StarFoxMods.strangemod.networking.ModMessages;
 import com.StarFoxMods.strangemod.recipe.ModRecipes;
 import com.StarFoxMods.strangemod.screen.ModMenuTypes;
 import com.StarFoxMods.strangemod.screen.StrangeChestScreen;
@@ -54,6 +55,7 @@ public class StrangeMod {
         event.enqueueWork(() -> {
             ModVillagers.registerPOIs();
         });
+        ModMessages.register();
     }
 
     @Mod.EventBusSubscriber(modid = MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD)

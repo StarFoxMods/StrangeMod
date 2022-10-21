@@ -24,6 +24,11 @@
   "block.strangemod.strange_material_end_ore": "Strange Material Ore",
   "block.strangemod.strange_chest_block": "Strange Chest",
 
+  "key.category.strangemod": "StrangeMod",
+  "key.strangemod.drink_filtered_water": "Drink Filtered Water",
+  "message.strangemod.drink_filtered_water": "Drink Filtered Water",
+  "message.strangemod.no_filtered_water": "No Filtered Water in Inventory",
+
   "itemGroup.strangetab": "Strange Tab",
   "entity.minecraft.villager.strangemod.strange_trader": "Strange Trader"
 }
