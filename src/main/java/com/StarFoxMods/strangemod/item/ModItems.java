@@ -1,6 +1,7 @@
 package com.StarFoxMods.strangemod.item;
 
 import com.StarFoxMods.strangemod.StrangeMod;
+import com.StarFoxMods.strangemod.item.custom.StrangeMaterialArrowItem;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -38,7 +39,7 @@ public class ModItems {
     public static final RegistryObject<Item> STRANGE_MATERIAL_CROSSBOW = ITEMS.register("strange_material_crossbow",
             ()-> new CrossbowItem(new Item.Properties().tab(ModCreativeModeTab.STRANGE_TAB).durability(2500)));
     public static final RegistryObject<Item> STRANGE_MATERIAL_ARROW = ITEMS.register("strange_material_arrow",
-            ()-> new StrangeMaterialArrow(new Item.Properties().tab(ModCreativeModeTab.STRANGE_TAB)));
+            ()-> new StrangeMaterialArrowItem(new Item.Properties().tab(ModCreativeModeTab.STRANGE_TAB), 5F));
 
     public static final RegistryObject<Item> STRANGE_MATERIAL_HELMET = ITEMS.register("strange_material_helmet",
             ()-> new ArmorItem(ModArmorMaterials.STRANGE_MATERIAL, EquipmentSlot.HEAD,
