@@ -44,7 +44,7 @@ public class ThirstHudOverlay {
 
         for(int i = 0; i < 10; i++) {
             if(ClientThirstData.getPlayerThirst_filled() > i) {
-                GuiComponent.blit(poseStack,x + 95 + (i * 7), y - 39, 0, 0, 9, 9,
+                GuiComponent.blit(poseStack,x + 95 + (i * 6), y - 39, 0, 0, 9, 9,
                         9, 9);
             } else {
                 break;
